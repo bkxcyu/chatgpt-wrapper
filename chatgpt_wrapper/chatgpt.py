@@ -579,7 +579,7 @@ def main():
 
     if len(args.params) > 0 and not install_mode:
         shell.default(" ".join(args.params))
-        return
+        # return
 
     shell.cmdloop()
 
