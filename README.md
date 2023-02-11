@@ -28,7 +28,7 @@ To use this repository, you need  `setuptools` installed. You can install it usi
 
 1. Install the latest version of this software directly from github with pip:
 ```bash
-pip install git+https://github.com/mmabrouk/chatgpt-wrapper
+pip install git+https://github.com/bkxcyu/chatgpt-wrapper
 ```
 
 2. Install a browser in playwright (if you haven't already).  The program will use firefox by default.
